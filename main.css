@@ -50,6 +50,7 @@ img {
 }
 
 .qr-code__content:hover {
+  cursor: pointer;
   animation: moveQrcode 1s alternate-reverse infinite;
 }
 
